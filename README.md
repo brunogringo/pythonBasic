@@ -1,2 +1,3 @@
-# pythonBasic
-Exercícios básicos do Python. Basic Python exercises 
+# Python Básico | Python Basic
+Exercícios básicos do Python. 
+Basic Python exercises. 
