@@ -5,6 +5,6 @@
 Exercícios básicos do Python. 
 Basic Python exercises. 
 
-## Link
+## Link do curso
 
 https://solyd.com.br/ead/course/python-basico/
